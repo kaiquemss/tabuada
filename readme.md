@@ -2,6 +2,7 @@
 
 <p>Este projeto é uma Tabuada simples feito com HTML CSS e Javascript</p>
 
+![Animação2](https://user-images.githubusercontent.com/79489384/158712432-af7c7776-270f-4b68-80b0-19bcf8aab747.gif)
 
 <hr>
 
